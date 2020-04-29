@@ -1,0 +1,53 @@
+body{
+    background-color: lemonchiffon;
+}
+h1{
+    color:purple;
+}
+
+h4{
+    color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h3{
+    color:darkblue;
+}
+a{
+    background-color:yellow;
+    color:rebeccapurple;
+}
+b{
+    color:slateblue;
+    background-color: paleturquoise;
+}
+.keshav{
+    color:blue;
+}
+#parts{
+    color:slateblue;
+}
+#modal{
+    color: tomato;
+}
+
+#tense{
+    color: maroon;
+}
+#degree{
+    color: midnightblue;
+}
+#direct{
+    color: orangered;
+}
+img:hover{
+    background-color: greenyellow;
+    
+}
+.image{
+    border-radius: 100%;
+}
+
+
+
+
+
